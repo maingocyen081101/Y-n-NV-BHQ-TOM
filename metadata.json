@@ -1,0 +1,7 @@
+{
+  "name": "HQa POM Master Production Analyzer ",
+  "description": "An industrial production management tool designed to analyze machine parts, repair costs, and maintenance status via Excel integration and QR code tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
